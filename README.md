@@ -90,5 +90,7 @@ Also evaluated using:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/CNN_Waste_Material_Segregation.git
+   git clone https://github.com/NavdeepMehta/CNN_Waste_Material_Segregation.git
    cd CNN_Waste_Material_Segregation
+
+Developed By: NAVDEEP MEHTA
